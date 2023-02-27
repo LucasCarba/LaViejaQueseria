@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "PICADA CHICA",
+        "precio": 1200,
+        "img": "./img/chica.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "PICADA MEDIANA",
+        "precio": 2500,
+        "img": "./img/mediana.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "PICADA GRANDE",
+        "precio": 3200,
+        "img": "./img/grande.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "QUESOS CHICA",
+        "precio": 1500,
+        "img": "./img/qChica.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "QUESOS MEDIANA",
+        "precio": 2000,
+        "img": "./img/qMediana.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "QUESOS GRANDE",
+        "precio": 3500,
+        "img": "./img/qGrande.jpeg"
+    },
+    {
+        "id": 7,
+        "nombre": "REGALO INDIVIDUAL",
+        "precio": 2000,
+        "img": "./img/empresa1.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "REGALO EMPRESARIAL",
+        "precio": 0000,
+        "img": "./img/empresa2.jpg"
+    }
+]
