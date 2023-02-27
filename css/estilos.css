@@ -1,0 +1,55 @@
+main {
+    background-color: rgb(226, 224, 224);
+}
+.tarjetas ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 2% 2% 2% 2%;
+ }
+.tarjetas ul li{ 
+    display: inline-flex;
+    width: 20%;
+    height: auto;
+    margin: 2% 2% 2% 2%;
+}
+.tarjetas ul li a img{ 
+    width: 13%;
+}
+
+.final ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+.final ul li {
+    display: inline-flex;
+    width: 10%;
+    margin: 2% 2% 2% 2%;
+}
+.final ul li a img{ 
+    width: 45%;
+}
+
+/* ------------------------------------- celulares ------------------------------------         */
+@media screen and (max-width:400px) {
+    .tarjetas ul li{
+        display: block;
+        width: 100%;
+        height:auto;
+        margin: 2% 2% 2% 2%;
+    }
+
+    .final ul li a img{ 
+        width: 85%;
+    }
+}
+
+/* ------------------------------------- Tablets  ------------------------------------         */
+@media (min-width:400px) and (max-width:750px) {
+    .tarjetas ul li{
+        display: inline block;
+        width: 100%;
+        height:auto;
+        margin: 2% 2% 2% 2%;
+    }
+}
